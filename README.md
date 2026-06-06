@@ -130,6 +130,7 @@ git clone https://github.com/your-username/home-loan-default-prediction.git
 - SMOTE for imbalance handling
 - Advanced Neural Network architectures
 - Model deployment using Streamlit or Flask
+- Real-time prediction API
 
 # 🧠 Key Learnings
 - Handling imbalanced datasets in Deep Learning
